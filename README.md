@@ -1,2 +1,2 @@
 # FxAIBot
-Trying to create AI Bot which buy sell automatically
+Trying to create AI Bot which buy sell automatically 
